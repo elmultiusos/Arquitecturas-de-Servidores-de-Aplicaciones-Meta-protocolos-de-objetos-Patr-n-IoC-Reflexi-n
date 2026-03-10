@@ -87,3 +87,5 @@ public void testControllerLoader() throws Exception {
 - Soporta anotaciones `@RestController`, `@GetMapping` y `@RequestParam`.
 - El diseño está documentado en este README.
 - El repositorio puede ser clonado y ejecutado fácilmente.
+
+Juan Sebastian Buitrago Piñeros

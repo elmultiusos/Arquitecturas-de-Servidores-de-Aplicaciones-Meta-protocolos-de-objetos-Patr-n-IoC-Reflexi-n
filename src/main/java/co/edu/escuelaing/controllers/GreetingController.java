@@ -7,7 +7,7 @@ import co.edu.escuelaing.reflexionlab.annotations.RestController;
 public class GreetingController {
 
     @GetMapping("/greeting")
-    public String greeting() {
-        return "Hola Mundo desde MicroSpringBoot";
+    public String greeting(@co.edu.escuelaing.reflexionlab.annotations.RequestParam(value = "name", defaultValue = "World") String name) {
+        return "Hola " + name;
     }
 }

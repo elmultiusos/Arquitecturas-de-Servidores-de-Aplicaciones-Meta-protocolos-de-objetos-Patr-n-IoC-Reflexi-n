@@ -1,0 +1,10 @@
+Apache\annotations\GetMapping.class
+Apache\annotations\RequestParam.class
+Apache\server\SimpleWebServer.class
+Apache\App.class
+Apache\server\MicroSpringBoot$HandlerEntry.class
+Apache\controllers\HelloController.class
+Apache\server\MicroSpringBoot.class
+Apache\annotations\RestController.class
+Apache\util\ImageGenerator.class
+Apache\controllers\GreetingController.class
